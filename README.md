@@ -1,6 +1,6 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Daniel Lopes
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Trainee Software Engineer | JavaScript & .NET**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
