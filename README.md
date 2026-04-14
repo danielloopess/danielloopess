@@ -15,8 +15,8 @@ I also share my journey and knowledge about software development, SaaS, and tech
   <a href="https://github.com/danielloopess">
     <img src="https://img.shields.io/badge/GitHub-danielloopess-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/daniellopes___?igsh=MTBzbnIzNzl1eHRpMg==">
+    <img src="https://img.shields.io/badge/Instagram-@daniellopes__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
     <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
