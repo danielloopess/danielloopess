@@ -3,11 +3,10 @@
 🚀 **Trainee Software Engineer | JavaScript & .NET**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m a backend intern and technology student, building foundational skills in web development and scalable systems.
+Focused on learning architecture, performance, clean code, and how technology solves real business problems.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
-
+I also share my journey and knowledge about software development, SaaS, and tech entrepreneurship.
 ---
 
 ## 🌐 Where to find me
