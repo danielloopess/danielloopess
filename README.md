@@ -12,7 +12,7 @@ I also share my journey and knowledge about software development, SaaS, and tech
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/danielloopess">
     <img src="https://img.shields.io/badge/GitHub-danielloopess-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
