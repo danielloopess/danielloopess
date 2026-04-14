@@ -17,13 +17,6 @@ I also share my journey and knowledge about software development, SaaS, and tech
   </a>
   <a href="https://www.instagram.com/daniellopes___?igsh=MTBzbnIzNzl1eHRpMg==">
     <img src="https://img.shields.io/badge/Instagram-@daniellopes__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
