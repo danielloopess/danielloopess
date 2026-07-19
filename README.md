@@ -17,7 +17,7 @@ Também compartilho minha trajetória e meus conhecimentos sobre desenvolvimento
     <img src="https://img.shields.io/badge/GitHub-danielloopess-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/dann_loopess?igsh=MWdwbW5tYnRiZ3Jrcg==">
-    <img src="https://img.shields.io/badge/Instagram-@daniellopes__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@dann_loopess-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ---
