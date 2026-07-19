@@ -7,6 +7,7 @@ Estou a procura de estágio de backend e estudante de tecnologia, adquirindo hab
 Meu foco é aprender sobre arquitetura, desempenho, código limpo e como a tecnologia resolve problemas reais de negócios.
 
 Também compartilho minha trajetória e meus conhecimentos sobre desenvolvimento de software, SaaS e empreendedorismo tecnológico.
+
 ---
 
 ## 🌐 Onde me encontrar
